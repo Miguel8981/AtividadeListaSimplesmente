@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio2\\Exercicio2.csproj": {}
+    "C:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio3\\Exercicio3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio2\\Exercicio2.csproj": {
+    "C:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio3\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio2\\Exercicio2.csproj",
-        "projectName": "Exercicio2",
-        "projectPath": "c:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio2\\Exercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio3\\Exercicio3.csproj",
+        "projectName": "Exercicio3",
+        "projectPath": "C:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio3\\Exercicio3.csproj",
         "packagesPath": "C:\\Users\\sheil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio2\\obj\\",
+        "outputPath": "C:\\Users\\sheil\\OneDrive\\Desktop\\AtividadeListaSimplesmente\\Exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sheil\\AppData\\Roaming\\NuGet\\NuGet.Config"
