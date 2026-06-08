@@ -1,0 +1,15 @@
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\bin\Debug\net10.0\AulaListaSimpleEncad.exe
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\bin\Debug\net10.0\AulaListaSimpleEncad.deps.json
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\bin\Debug\net10.0\AulaListaSimpleEncad.runtimeconfig.json
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\bin\Debug\net10.0\AulaListaSimpleEncad.dll
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\bin\Debug\net10.0\AulaListaSimpleEncad.pdb
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.AssemblyInfoInputs.cache
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.AssemblyInfo.cs
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.csproj.CoreCompileInputs.cache
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.sourcelink.json
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.dll
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\refint\AulaListaSimpleEncad.dll
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.pdb
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\AulaListaSimpleEncad.genruntimeconfig.cache
+C:\Users\sheil\OneDrive\Desktop\AtividadeListaSimplesmente\AulaListaSimpleEncad\obj\Debug\net10.0\ref\AulaListaSimpleEncad.dll

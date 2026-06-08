@@ -1,8 +1,9 @@
+namespace AtividadeListaSimplesmente;
 public class Lista{ //SE - Simplesmente Encadeada
 
     //Atributos
-    public No inicio; //cabeça
-    public No fim; //cauda
+    public No? inicio; //cabeça
+    public No? fim; //cauda
 
     //Construtor
     public Lista(){
@@ -63,5 +64,43 @@ public class Lista{ //SE - Simplesmente Encadeada
             Console.WriteLine(noAtual.valor + "-> ");
             noAtual = noAtual.prox;
         }
+    }
+    public void removerInicio()
+    {
+    if (estaVazia())
+    {
+        Console.WriteLine("Lista vazia!");
+        return;
+    }
+
+    inicio = inicio.prox;
+
+    if (inicio == null)
+        fim = null;
+     }
+   public void removerFim()
+    {
+    if (estaVazia())
+    {
+        Console.WriteLine("Lista vazia!");
+        return;
+    }
+
+    if (inicio == fim)
+    {
+        inicio = null;
+        fim = null;
+        return;
+    }
+
+    No aux = inicio;
+
+    while (aux.prox != fim)
+    {
+        aux = aux.prox;
+    }
+
+    aux.prox = null;
+    fim = aux;
     }
 }
